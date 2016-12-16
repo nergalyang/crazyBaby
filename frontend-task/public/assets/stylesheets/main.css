@@ -1,0 +1,16 @@
+.btn.btn-primary.btn-lg {
+	background-color:rgb(200,20,100);
+}
+.container {
+    
+}
+.row {
+	height:100px;
+	border: 1px solid;
+	position: relative;
+}
+
+div.row > div {
+	height: 100px;
+	border: 1px solid;
+}
